@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhsardana29@gmail.com**
 
-- ⚡ Fun fact **<Hello world> is where it all started**
+- ⚡ Fun fact **"<>" is where it all started**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
