@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsardana29&label=Profile%20views&color=77bb41&style=plastic" alt="shubhsardana29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/notsoshubhhh" target="blank"><img src="https://img.shields.io/twitter/follow/notsoshubhhh?logo=twitter&style=for-the-badge" alt="notsoshubhhh" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 - 🌱 I’m currently learning **Web-dev | Flutter and problem solving skills**
 
