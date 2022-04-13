@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsardana29&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsardana29" /> </p>
 
-- 🌱 I’m currently learning **Web-dev | DSA and problem solving skills**
+- 🌱 I’m currently learning **Web-dev | Flutter and problem solving skills**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shubhsardana.netlify.app/projects.html](https://portfolio-shubhsardana.netlify.app/projects.html)
 
