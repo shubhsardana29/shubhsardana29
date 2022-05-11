@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shubhsardana.netlify.app/](https://portfolio-shubhsardana.netlify.app/)
 
-- 📫 How to reach me **shubhsardana29@gmail.com**
+- 📫 How to reach me **shubhsardana31.ss@gmail.com**
 
 - ⚡ Fun fact **My perfect day would start with tea and end with a strong coffee.**
 
