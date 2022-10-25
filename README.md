@@ -32,3 +32,6 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/shubhsardana29/shubhsardana29/blob/output/github-contribution-grid-snake.gif)
+
+## Hacktoberfest'22 badges
+[![@shubhsardana29's Holopin board](https://holopin.me/shubhsardana29)](https://holopin.io/@shubhsardana29)
